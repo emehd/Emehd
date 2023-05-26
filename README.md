@@ -51,11 +51,17 @@ I studied computer science and have been working in an IT company in the field o
             width="36" height="36" alt="Django"/></a>
 </p>
 
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/emehd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/eme_hd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/eme_hd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/emehd/DBInfoBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emehd&repo=DBInfoBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <b>My GitHub Stats</b>
 
