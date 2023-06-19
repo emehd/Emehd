@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer / Automation / DevOps
 --------------------------------
 
-I studied computer science and have been working in an IT company in the field of network automation, DevOps and programming for 2019 years.
+I studied computer science and have been working in an IT company in the field of network automation, DevOps and programming since 2019.
 
 *   🌍  I'm based in Berlin
 *   🖥️  See my portfolio at [My Portfolio](http://emehd.de)
